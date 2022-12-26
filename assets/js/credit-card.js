@@ -1,5 +1,5 @@
 /**
- * Title:   Webnixly - HTML App Landing Page - Credit Card Form file
+ * Title:   Paromint - HTML App Landing Page - Credit Card Form file
  * Author:  http://themeforest.net/user/5studiosnet
  *
  * This snippet uses the card package, please refer to its docs in order to customize it

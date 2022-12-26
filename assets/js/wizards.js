@@ -1,8 +1,8 @@
 /*!
- Webnixly - HTML Startup Template, v1.0
+ Paromint - HTML Startup Template, v1.0
  Forms JS file
  Copyright © 2021 5Studios.net
- http://webnixly.com
+ http://paromint.com/staging-app/
  */
 
 "use strict";

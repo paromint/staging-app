@@ -1,8 +1,8 @@
 /*!
- * Webnixly - HTML Startup Template, v3.0.0
+ * Paromint - HTML Startup Template, v3.0.0
  * Horizontal random bubbles variations.
  * Copyright © 2021 5Studios.net
- * https://webnixly.com
+ * https://paromint.com/staging-app/
  * Credits to: https://codepen.io/lokesh
  */
 

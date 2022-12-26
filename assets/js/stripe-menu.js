@@ -1,8 +1,8 @@
 /*!
- * Webnixly - HTML Startup Template, v1.1.8
+ * Paromint - HTML Startup Template, v1.1.8
  * Stripe menu.
  * Copyright © 2019 5Studios.net
- * https://webnixly.com
+ * https://paromint.com/staging-app/
  */
 
 "use strict";

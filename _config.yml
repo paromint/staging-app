@@ -1,17 +1,17 @@
-name: "Webnixly"
-title: "Webnixly"
+name: "Paromint"
+title: "Paromint"
 description: "Scale up your ICT Products with WEB-NIX-LY CONSULTING"
 meta_description: "Scale up your ICT Products with WEB-NIX-LY CONSULTING"
 logo: 'assets/img/logo.png'
-favicon: 'assets/img/logo.png'
+favicon: 'assets/img/favicon.png'
 paginate: 12
 baseurl: ''
 url: ''
 email: 'developer@example.com'
 locale: en_US
 seo:
-  keywords: 'Webnixly'
-  site_name: Webnixly
+  keywords: 'Paromint'
+  site_name: Paromint
 og:
   type: "website"
 

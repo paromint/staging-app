@@ -1,5 +1,5 @@
 /**
- * Title:   Webnixly - HTML App Landing Page - Main Javascript file
+ * Title:   Paromint - HTML App Landing Page - Main Javascript file
  * Author:  http://themeforest.net/user/5studiosnet
  **/
 
