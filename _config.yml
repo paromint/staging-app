@@ -6,7 +6,7 @@ logo: 'assets/img/logo.png'
 favicon: 'assets/img/favicon.png'
 paginate: 12
 baseurl: ''
-url: 'https://paromint.com/'
+url: 'http://paromint.com/staging-app/'
 email: 'dhammapal@paromint.com'
 locale: en_US
 seo:
